@@ -1,0 +1,125 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "/Users/marklesterbolotaolo/Downloads/george_animation-main/assets/tiles/happy_map.tmx",
+    "expandedProjectPaths": [
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "": {
+            "scaleInDock": 1
+        },
+        "/Users/marklesterbolotaolo/Desktop/projects.nosync/carrot/assets/map.tmx": {
+            "scale": 1.2122,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 128.69163504372216,
+                "y": 449.5957762745422
+            }
+        },
+        "/Users/marklesterbolotaolo/Desktop/projects.nosync/carrot/assets/map.tmx#background": {
+            "scaleInDock": 1
+        },
+        "/Users/marklesterbolotaolo/Desktop/projects.nosync/carrot/assets/tiles/map.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 2,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 249,
+                "y": 698.5
+            }
+        },
+        "/Users/marklesterbolotaolo/Desktop/projects.nosync/carrot/assets/tiles/map.tmx#background": {
+            "scaleInDock": 1
+        },
+        "/Users/marklesterbolotaolo/Downloads/assets.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/marklesterbolotaolo/Downloads/beach_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "/Users/marklesterbolotaolo/Downloads/george_animation-main/assets/tiles/happy_map.tmx": {
+            "scale": 0.46690340909090905,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 704.64253118345,
+                "y": 400.5111043504716
+            }
+        },
+        "/Users/marklesterbolotaolo/Downloads/george_animation-main/assets/tiles/happy_map.tmx#Amelia_idle_16x16": {
+            "scaleInDock": 1
+        },
+        "/Users/marklesterbolotaolo/Downloads/george_animation-main/assets/tiles/happy_map.tmx#Serene_Village_16x16": {
+            "scaleInDock": 1
+        },
+        "/Users/marklesterbolotaolo/Downloads/george_animation-main/assets/tiles/happy_map.tmx#friend": {
+            "scaleInDock": 1
+        },
+        "/Users/marklesterbolotaolo/Downloads/map.tmx": {
+            "expandedObjectLayers": [
+                3
+            ],
+            "scale": 0.7628,
+            "selectedLayer": 2,
+            "viewCenter": {
+                "x": 36.05138961719979,
+                "y": 211.06449921342423
+            }
+        },
+        "/Users/marklesterbolotaolo/Downloads/map.tmx#level1": {
+            "scaleInDock": 1
+        },
+        "/Users/marklesterbolotaolo/Downloads/map.tmx#level2": {
+            "scaleInDock": 1
+        },
+        "/Users/marklesterbolotaolo/Downloads/rope_fence_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "Serene_Village_48x48.tsx": {
+            "scaleInDock": 0.9753
+        },
+        "assets.tsx": {
+            "scaleInDock": 1
+        },
+        "beach_tiles.tsx": {
+            "scaleInDock": 1
+        },
+        "level1.tmx": {
+            "scale": 0.61453125,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 468.649885583524,
+                "y": 325.45130943300285
+            }
+        }
+    },
+    "map.height": 50,
+    "map.lastUsedFormat": "tmx",
+    "map.layerDataFormat": null,
+    "map.tileHeight": 16,
+    "map.tileWidth": 16,
+    "map.width": 88,
+    "openFiles": [
+        "/Users/marklesterbolotaolo/Desktop/projects.nosync/carrot/assets/tiles/map.tmx",
+        "/Users/marklesterbolotaolo/Downloads/george_animation-main/assets/tiles/happy_map.tmx"
+    ],
+    "project": "level1.tiled-project",
+    "recentFiles": [
+        "/Users/marklesterbolotaolo/Desktop/projects.nosync/carrot/assets/tiles/map.tmx",
+        "/Users/marklesterbolotaolo/Downloads/george_animation-main/assets/tiles/happy_map.tmx",
+        "/Users/marklesterbolotaolo/Desktop/projects.nosync/carrot/assets/map.tmx",
+        "level1.tmx",
+        "/Users/marklesterbolotaolo/Downloads/map.tmx"
+    ],
+    "tileset.embedInMap": true,
+    "tileset.lastUsedFormat": "tsx",
+    "tileset.tileSize": {
+        "height": 16,
+        "width": 16
+    },
+    "tileset.useTransparentColor": true
+}
